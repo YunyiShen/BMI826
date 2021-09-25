@@ -1,9 +1,28 @@
-The executable is `checkPath.sh` with 3 arguements, namely the input file, starting node and destination node. 
+## For Question 5:
+The executable is `checkPath.sh` with 3 arguements, 
+    namely the input file, starting node and destination node. 
 If it is the first run, it will take some time to compile.
 Node names are case sensitive, should be string.
+
+The implementation is in `checkPath.cpp`, 
+    while actually main algorithms for both question are in `Graph.hpp` as a template library
 
 
 For instance
 ```shell
 ./checkPath.sh input,txt A B
 ```
+
+## For question 6:
+The executable is `compareGraphsPathwise.sh` with 2 arguements, 
+    namely the two graph input files. 
+If it is the first run, it will take some time to compile.
+Node names are case sensitive, should be string.
+
+For instance
+```shell
+./compareGraphsPathwise.sh graph1.txt graph2.txt
+```
+
+The implementation is in `compareGraphsPathwise.cpp`, 
+    while actually main algorithms for both question are in `Graph.hpp` as a template library

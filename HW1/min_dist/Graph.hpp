@@ -77,17 +77,17 @@ template<typename T> void Graph<T>::fromfile(string file){
         throw std::invalid_argument("cannot open the file");
     }  
     char line[1024]={0};
-    string V1, V2;
+    string v1, v2;
     while(fin.getline(line,sizeof(line)))
     {
 
         std::stringstream word(line);
-        word >> V1 ;
-        word >> V2;
+        word >> v1 ;
+        word >> v2;
         //cout << "v1:" << v1 << " v2:" << v2 << endl;
-        this->add_vertex(static_cast<T>(V1));
-        this->add_vertex(static_cast<T>(V2));
-        this->add_edge(static_cast<T>(V1),static_cast<T>(V2));
+        this->add_vertex(static_cast<T>(v1));
+        this->add_vertex(static_cast<T>(v2));
+        this->add_edge(static_cast<T>(v1),static_cast<T>(v2));
     }
 }
 
