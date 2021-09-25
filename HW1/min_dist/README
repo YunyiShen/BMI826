@@ -1,0 +1,9 @@
+The executable is `checkPath.sh` with 3 arguements, namely the input file, starting node and destination node. 
+If it is the first run, it will take some time to compile.
+Node names are case sensitive, should be string.
+
+
+For instance
+```shell
+./checkPath.sh input,txt A B
+```
