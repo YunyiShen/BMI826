@@ -10,7 +10,15 @@ The implementation is in `checkPath.cpp`,
 
 For instance
 ```shell
-./checkPath.sh input,txt A B
+cd prob5
+./checkPath.sh input.txt A B
+```
+
+Compiled version are also available (compiled on Ubuntu 20.04 with g++). You can use:
+
+```shell
+cd prob5
+./checkPath input.txt A B
 ```
 
 ## For question 6:
@@ -21,8 +29,17 @@ Node names are case sensitive, should be string.
 
 For instance
 ```shell
+cd prob6
 ./compareGraphsPathwise.sh graph1.txt graph2.txt
 ```
 
 The implementation is in `compareGraphsPathwise.cpp`, 
     while actually main algorithms for both question are in `Graph.hpp` as a template library
+
+
+Compiled version are also available (compiled on Ubuntu 20.04 with g++). You can use:
+
+```shell
+cd prob6
+./compareGraphsPathwise graph1.txt graph2.txt
+```
