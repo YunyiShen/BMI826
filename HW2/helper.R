@@ -7,7 +7,7 @@ lcor <- function(x1, x2, s, l,
     res <- cor(x1t,x2t)
     if(writeFile){
         sink(filename, append = append)
-        cat("Lagged correlation\n")
+        cat("Lagged correlation with s =",s," l =", l, " \n")
         cat("x_i = [", x1, "]\n")
         cat("x_j = [", x2, "]\n")
         cat("Lagged correlation =",res,"\n\n")
