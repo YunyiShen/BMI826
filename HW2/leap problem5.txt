@@ -1,0 +1,160 @@
+Lagged correlation
+x_i = [ 1 2 3 4 5 6 ]
+x_j = [ 8 4 3 0 1 7 ]
+Lagged correlation = -0.2849874 
+
+Lagged correlation
+x_i = [ 1 2 3 4 5 6 ]
+x_j = [ 8 4 3 0 1 7 ]
+Lagged correlation = -0.9449112 
+
+Lagged correlation
+x_i = [ 1 2 3 4 5 6 ]
+x_j = [ 8 4 3 0 1 7 ]
+Lagged correlation = 0.9244735 
+
+Lagged correlation
+x_i = [ 1.370958 -0.5646982 0.3631284 0.6328626 0.4042683 -0.1061245 ]
+x_j = [ 1.511522 -0.09465904 2.018424 -0.0627141 1.30487 2.286645 ]
+Lagged correlation = 0.1978459 
+
+Lagged correlation
+x_i = [ 0.08243756 0.5142118 0.3902035 0.9057381 0.4469696 0.8360043 ]
+x_j = [ 0.7375956 0.8110551 0.3881083 0.6851697 0.003948339 0.8329161 ]
+Lagged correlation = 0.2390837 
+
+Lagged correlation
+x_i = [ 1.436674 0.3921984 0.385825 0.7855415 0.7367171 0.2601505 ]
+x_j = [ 1.834562 3.115171 0.6254077 0.0713897 0.9208021 4.304126 ]
+Lagged correlation = -0.368577 
+
+Top regulators of gene 0  with s = 300 l = 0 
+Gene: 0 	 Lagged correlation: 1 
+Gene: 5 	 Lagged correlation: 0.9215071 
+Gene: 70 	 Lagged correlation: 0.8981271 
+Gene: 41 	 Lagged correlation: 0.8949736 
+Gene: 9 	 Lagged correlation: 0.8830151 
+Gene: 15 	 Lagged correlation: 0.87253 
+Gene: 23 	 Lagged correlation: 0.867146 
+Gene: 1 	 Lagged correlation: 0.8606327 
+Gene: 6 	 Lagged correlation: -0.8442544 
+Gene: 4 	 Lagged correlation: -0.8358111 
+
+Top regulators of gene 0  with s = 300 l = 25 
+Gene: 5 	 Lagged correlation: 0.7842688 
+Gene: 0 	 Lagged correlation: 0.7804497 
+Gene: 70 	 Lagged correlation: 0.7803672 
+Gene: 15 	 Lagged correlation: 0.7374278 
+Gene: 63 	 Lagged correlation: 0.7294006 
+Gene: 41 	 Lagged correlation: 0.7285351 
+Gene: 6 	 Lagged correlation: -0.7258583 
+Gene: 4 	 Lagged correlation: -0.7207212 
+Gene: 1 	 Lagged correlation: 0.709599 
+Gene: 33 	 Lagged correlation: -0.7009807 
+
+maximum lagged correlation is reached when l= 2 
+maximum lagged correlation is reached when l= 2 
+ the maximum is 0.7232788 
+
+maximum lagged correlation is reached when l= 2 	 the maximum is 0.7232788 
+
+Top target of gene 0  with s = 300 l = 0 
+Gene: 0 	 Lagged correlation: 1 
+Gene: 5 	 Lagged correlation: 0.9215071 
+Gene: 70 	 Lagged correlation: 0.8981271 
+Gene: 41 	 Lagged correlation: 0.8949736 
+Gene: 9 	 Lagged correlation: 0.8830151 
+Gene: 15 	 Lagged correlation: 0.87253 
+Gene: 23 	 Lagged correlation: 0.867146 
+Gene: 1 	 Lagged correlation: 0.8606327 
+Gene: 6 	 Lagged correlation: -0.8442544 
+Gene: 4 	 Lagged correlation: -0.8358111 
+
+Top target of gene 0  with s = 300 l = 25 
+Gene: 5 	 Lagged correlation: 0.7842688 
+Gene: 0 	 Lagged correlation: 0.7804497 
+Gene: 70 	 Lagged correlation: 0.7803672 
+Gene: 15 	 Lagged correlation: 0.7374278 
+Gene: 63 	 Lagged correlation: 0.7294006 
+Gene: 41 	 Lagged correlation: 0.7285351 
+Gene: 6 	 Lagged correlation: -0.7258583 
+Gene: 4 	 Lagged correlation: -0.7207212 
+Gene: 1 	 Lagged correlation: 0.709599 
+Gene: 33 	 Lagged correlation: -0.7009807 
+
+Top target of gene 0  with s = 100 l = 25 
+Gene: 45 	 Lagged correlation: -0.5577821 
+Gene: 69 	 Lagged correlation: -0.4933703 
+Gene: 31 	 Lagged correlation: 0.4929938 
+Gene: 32 	 Lagged correlation: -0.4884661 
+Gene: 42 	 Lagged correlation: -0.4781445 
+Gene: 5 	 Lagged correlation: 0.4655685 
+Gene: 70 	 Lagged correlation: 0.4637667 
+Gene: 94 	 Lagged correlation: -0.4475615 
+Gene: 84 	 Lagged correlation: -0.4395101 
+Gene: 63 	 Lagged correlation: 0.4340362 
+
+maximum lagged correlation is reached when l = 2 	 the maximum is 0.7232788 
+
+Top target of gene 0  with s = 300 l = 0 
+Gene: 0 	 Lagged correlation: 1 
+Gene: 5 	 Lagged correlation: 0.9215071 
+Gene: 70 	 Lagged correlation: 0.8981271 
+Gene: 41 	 Lagged correlation: 0.8949736 
+Gene: 9 	 Lagged correlation: 0.8830151 
+Gene: 15 	 Lagged correlation: 0.87253 
+Gene: 23 	 Lagged correlation: 0.867146 
+Gene: 1 	 Lagged correlation: 0.8606327 
+Gene: 6 	 Lagged correlation: -0.8442544 
+Gene: 4 	 Lagged correlation: -0.8358111 
+
+Top target of gene 0  with s = 300 l = 25 
+Gene: 5 	 Lagged correlation: 0.7842688 
+Gene: 0 	 Lagged correlation: 0.7804497 
+Gene: 70 	 Lagged correlation: 0.7803672 
+Gene: 15 	 Lagged correlation: 0.7374278 
+Gene: 63 	 Lagged correlation: 0.7294006 
+Gene: 41 	 Lagged correlation: 0.7285351 
+Gene: 6 	 Lagged correlation: -0.7258583 
+Gene: 4 	 Lagged correlation: -0.7207212 
+Gene: 1 	 Lagged correlation: 0.709599 
+Gene: 33 	 Lagged correlation: -0.7009807 
+
+Top target of gene 0  with s = 100 l = 25 
+Gene: 45 	 Lagged correlation: -0.5577821 
+Gene: 69 	 Lagged correlation: -0.4933703 
+Gene: 31 	 Lagged correlation: 0.4929938 
+Gene: 32 	 Lagged correlation: -0.4884661 
+Gene: 42 	 Lagged correlation: -0.4781445 
+Gene: 5 	 Lagged correlation: 0.4655685 
+Gene: 70 	 Lagged correlation: 0.4637667 
+Gene: 94 	 Lagged correlation: -0.4475615 
+Gene: 84 	 Lagged correlation: -0.4395101 
+Gene: 63 	 Lagged correlation: 0.4340362 
+
+maximum lagged correlation is reached when l = 2 	 the maximum is 0.7232788 
+
+Top regulators of gene 63  with s = 300 l = 0 
+Gene: 63 	 Lagged correlation: 1 
+Gene: 5 	 Lagged correlation: 0.8291509 
+Gene: 70 	 Lagged correlation: 0.8265256 
+Gene: 0 	 Lagged correlation: 0.8028458 
+Gene: 41 	 Lagged correlation: 0.8002139 
+Gene: 9 	 Lagged correlation: 0.7586441 
+Gene: 15 	 Lagged correlation: 0.7503168 
+Gene: 23 	 Lagged correlation: 0.7188475 
+Gene: 8 	 Lagged correlation: 0.7060414 
+Gene: 4 	 Lagged correlation: -0.7034285 
+
+Top regulators of gene 63  with s = 300 l = 25 
+Gene: 5 	 Lagged correlation: 0.7444489 
+Gene: 0 	 Lagged correlation: 0.7294006 
+Gene: 41 	 Lagged correlation: 0.725777 
+Gene: 7 	 Lagged correlation: -0.7061857 
+Gene: 6 	 Lagged correlation: -0.7048111 
+Gene: 4 	 Lagged correlation: -0.700023 
+Gene: 18 	 Lagged correlation: -0.6831274 
+Gene: 70 	 Lagged correlation: 0.6779268 
+Gene: 15 	 Lagged correlation: 0.6637863 
+Gene: 33 	 Lagged correlation: -0.6630563 
+
